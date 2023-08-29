@@ -1,2 +1,2 @@
 # Java Programs
-A collections of programs to for solid foundation of basics for beginners
+A collections of programs for a solid foundation of basics for beginners
